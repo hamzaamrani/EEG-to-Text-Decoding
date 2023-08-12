@@ -1,1 +1,1 @@
-# EEG-to-Text-Decoding
+# Deep Representation Learning for Open Vocabulary Electroencephalography-to-Text Decoding
