@@ -1,7 +1,11 @@
 # Deep Representation Learning for Open Vocabulary Electroencephalography-to-Text Decoding
 
-## Create Environment
-run `conda env create -f environment.yml` to create the conda environment (named "EEGToTextOpenVoc") used in our experiments.
+
+
+This repo is based on the [EEG-to-Text](https://github.com/MikeWangWZHL/EEG-To-Text) repository.
+
+<!---## Create Environment
+run `conda env create -f environment.yml` to create the conda environment (named "EEGToTextOpenVoc") used in our experiments.-->
 
 ## Download ZuCo datasets
 - Download ZuCo v1.0 'Matlab files' for 'task1-SR','task2-NR','task3-TSR' from https://osf.io/q3zws/files/ under 'OSF Storage' root,  
