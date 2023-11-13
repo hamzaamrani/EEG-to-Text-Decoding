@@ -12,13 +12,20 @@
     <a href="mailto:hamza.amrani@unimib.it">hamza.amrani@unimib.it</a>,
     <a href="mailto:daniela.micucci@unimib.it">daniela.micucci@unimib.it</a>,
     <a href="mailto:paolo.napoletano@unimib.it">paolo.napoletano@unimib.it</a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Arxiv paper</strong></a>
-    <br />
+
   </p>
 </div>
 
+<div align="center">    
+ 
+
+[![Paper](http://img.shields.io/badge/paper-arxiv.1001.2234-B31B1B.svg)](https://arxiv.org)
+<!--
+ARXIV   
+[![Paper](http://img.shields.io/badge/arxiv-math.co:1480.1111-B31B1B.svg)](https://arxiv.org)
+-->
+ 
+</div>
 
 
 <!-- ABSTRACT -->
