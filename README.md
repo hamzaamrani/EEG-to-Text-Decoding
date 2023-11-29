@@ -17,10 +17,12 @@
 </div>
 
 <div align="center">    
- 
 
-[![Paper](http://img.shields.io/badge/paper-arxiv.1001.2234-B31B1B.svg)](https://arxiv.org)
+
+ <a href="https://scholar.google.com/citations?view_op=view_citation&hl=it&user=9avLOBQAAAAJ&citation_for_view=9avLOBQAAAAJ:UeHWp8X0CEIC">Paper</a>
 <!--
+[![Paper](http://img.shields.io/badge/paper-arxiv.1001.2234-B31B1B.svg)](https://arxiv.org)
+
 ARXIV   
 [![Paper](http://img.shields.io/badge/arxiv-math.co:1480.1111-B31B1B.svg)](https://arxiv.org)
 -->
@@ -63,9 +65,11 @@ To evaluate the trained EEG-To-Text decoding model from above, run `bash ./scrip
 
 
 <!-- CITATION -->
+<!--
 ## Citation
 
 ```
   
 
 ```
+-->
