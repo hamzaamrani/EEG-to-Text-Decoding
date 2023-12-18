@@ -19,10 +19,8 @@
 <div align="center">    
 
 
- <a href="https://scholar.google.com/citations?view_op=view_citation&hl=it&user=9avLOBQAAAAJ&citation_for_view=9avLOBQAAAAJ:UeHWp8X0CEIC">Paper</a>
+[![Paper](https://img.shields.io/badge/paper-arxiv.2312.09430-B31B1B.svg)](https://arxiv.org/abs/2312.09430)
 <!--
-[![Paper](http://img.shields.io/badge/paper-arxiv.1001.2234-B31B1B.svg)](https://arxiv.org)
-
 ARXIV   
 [![Paper](http://img.shields.io/badge/arxiv-math.co:1480.1111-B31B1B.svg)](https://arxiv.org)
 -->
@@ -65,11 +63,18 @@ To evaluate the trained EEG-To-Text decoding model from above, run `bash ./scrip
 
 
 <!-- CITATION -->
-<!--
+
 ## Citation
 
 ```
-  
+  @misc{amrani2023deep,
+      title={Deep Representation Learning for Open Vocabulary Electroencephalography-to-Text Decoding}, 
+      author={Hamza Amrani and Daniela Micucci and Paolo Napoletano},
+      year={2023},
+      eprint={2312.09430},
+      archivePrefix={arXiv},
+      primaryClass={eess.SP}
+}
 
 ```
--->
+
