@@ -1,4 +1,6 @@
+<b>Updates</b>: In light of the recent claim regarding evaluation methods by [MikeWangWZHL/EEG-To-Text#5](https://github.com/MikeWangWZHL/EEG-To-Text/issues/5), we are currently examining the issue.
 
+---
 <div align="center">
   <a href="https://github.com/hamzaamrani/EEG-to-Text-Decoding/blob/main/overview.png">
     <img src="overview.png" alt="Overview">
